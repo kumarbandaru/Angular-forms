@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "dynamicforms"
+    }
+  },
+  "defaultProject": "dynamicforms",
+  "cli": {
+    "analytics": false
+  }
 }
